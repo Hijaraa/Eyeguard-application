@@ -1,2 +1,10 @@
-# Eyeguard-application
- Dans une première partie on va présenter le contexte général du projet  en  élaborant la principale problématique et en proposant des solutions adéquates,  ensuite on passe à la phase analyse et conception du projet qui consiste à  élaborer les interfaces les plus pertinentes du projet.
+# Simple-Facial-recognition-with-Database
+Simple facial recognition program where you can store info. of a person in a database
+
+3 main files:
+## dataset_creator.py: 
+This file will create a initial dataset for you. Just like when your face is scanned when every time you register your face in a system.
+## trainer.py
+This file trains the algorithm on the dataset that you have created.
+## detector.py
+This file detects your face and when detected show the result
